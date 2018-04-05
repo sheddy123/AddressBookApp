@@ -1,0 +1,19 @@
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+.panel{
+  background: #00FFCC; border-color:#003399;
+  padding:1em;
+  width:92.5%;
+  margin:auto;
+  max-width:50em;
+}
